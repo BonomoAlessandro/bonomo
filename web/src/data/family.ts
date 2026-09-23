@@ -3,7 +3,7 @@ import type { Person, Spouse, TreeNode } from '../types';
 /*
  * Stammbaum der Familie BONOMO, genannt CALZIN
  * nach Willi Bonomo, "I Bonomo – kurze Einführung in die Geschichte der Familie Bonomo", 1965,
- * mit Ergänzungen durch Regula Bonomo (Nachführung bis 30.08.2026).
+ * nachgeführt bis 23.09.2026.
  */
 
 const p = (name: string, life?: string, extra: Partial<Person> = {}): Person => ({ name, life, ...extra });

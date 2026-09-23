@@ -173,7 +173,7 @@ export default function FamilyTree() {
         <p className="eyebrow">Stammbaum der Familie Bonomo, genannt Calzin</p>
         <h2>Von Cristiano bis heute</h2>
         <p className="muted">
-          Nach Willi Bonomo (1965), mit Ergänzungen durch Regula Bonomo – Nachführung bis 30.08.2026. Klicken Sie auf eine
+          Nach Willi Bonomo (1965) – Nachführung bis 23.09.2026. Klicken Sie auf eine
           Person für Details, auf ▾ zum Ein- und Ausklappen. Mit gedrückter Maustaste lässt sich der Baum verschieben.
         </p>
       </div>
