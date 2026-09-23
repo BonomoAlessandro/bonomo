@@ -1,0 +1,19 @@
+# Quelldokumente (enthalten Personendaten)
+*.pdf
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Abhängigkeiten und Build-Ausgaben
+node_modules/
+dist/
+dist-ssr/
+*.tsbuildinfo
+
+# Logs und lokale Dateien
+*.log
+*.local
+.DS_Store
+Thumbs.db
