@@ -16,7 +16,7 @@ export default function Footer() {
             Stammbaum der Familie Bonomo, genannt Calzin – mit Ergänzungen durch Regula Bonomo, Nachführung bis 30.08.2026.
           </li>
         </ul>
-        <p className="muted">Die Geschichte gibt den Forschungsstand von Willi Bonomo (1965) wieder und ist keine gesicherte Chronik. Offensichtliche Schreibfehler der Originalauflage (Jahr der Zerstörung Altinums, Jahr der Seligsprechung) sind korrigiert.</p>
+        <p className="muted">Die Geschichte gibt den Forschungsstand von Willi Bonomo (1965) wieder und ist keine gesicherte Chronik.</p>
       </div>
     </footer>
   );
